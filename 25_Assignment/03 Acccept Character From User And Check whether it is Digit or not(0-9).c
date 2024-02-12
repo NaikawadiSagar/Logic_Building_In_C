@@ -16,7 +16,7 @@ int main()
     char cValue = '\0';
     BOOL bRet = FALSE;
 
-    printf("\n Enter The Character => ");
+    printf("\n Enter a Character => ");
     scanf("%c",&cValue);
 
     bRet = ChkDigit(cValue);
