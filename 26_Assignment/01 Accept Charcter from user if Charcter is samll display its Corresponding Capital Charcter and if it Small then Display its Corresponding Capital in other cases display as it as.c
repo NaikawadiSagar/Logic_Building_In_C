@@ -20,7 +20,7 @@ void Display(char Ch)
 int main()
 {
     char cValue = '\0';
-    printf("\n Enter The Character = ");
+    printf("\n Enter A Character = ");
     scanf("%c",&cValue);
     Display(cValue);
 
