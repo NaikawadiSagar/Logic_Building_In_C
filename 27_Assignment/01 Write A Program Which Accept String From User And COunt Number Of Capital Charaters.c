@@ -26,7 +26,7 @@ int main()
     char Arr[20];
     int iRet = 0;
 
-    printf("Enter A String => ");
+    printf("Enter The String => ");
     scanf("%[^'\n']s",&Arr);
 
     iRet = CountCapital(Arr);
