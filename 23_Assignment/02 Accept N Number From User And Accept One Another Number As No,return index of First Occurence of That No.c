@@ -24,7 +24,7 @@ int main()
     int iSize = 0,iRet = 0,iCnt = 0,iValue = 0;
     int *P = NULL;
 
-    printf("\n Enter Number Of Elements => ");
+    printf("\n Enter number Of Elements => ");
     scanf("%d",&iSize);
 
     printf("\n Enter The Searching Number => ");
