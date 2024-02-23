@@ -21,7 +21,7 @@ int main()
 
     iRet = Divide(iValue1,iValue2);
 
-    printf("\n Division is = %d",iRet);
+    printf("\n Division is => %d",iRet);
 
     return 0;
 }
