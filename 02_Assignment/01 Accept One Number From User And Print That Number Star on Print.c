@@ -17,7 +17,7 @@ int main()
 {
     int iValue = 0;
 
-    printf("\n Enter A Value => ");
+    printf("\n Enter The Value => ");
     scanf("%d",&iValue);
 
     Display(iValue);
