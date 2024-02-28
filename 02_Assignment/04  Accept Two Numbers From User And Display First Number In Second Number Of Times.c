@@ -16,7 +16,7 @@ int main()
     int iValue = 0;
     int iCount = 0;
 
-    printf("\n Enter A Number => ");
+    printf("\n Enter The Number => ");
     scanf("%d",&iValue);
 
     printf("\n Enter A Frequency => ");
