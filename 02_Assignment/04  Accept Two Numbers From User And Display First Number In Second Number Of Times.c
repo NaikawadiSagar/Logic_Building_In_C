@@ -19,7 +19,7 @@ int main()
     printf("\n Enter The Number => ");
     scanf("%d",&iValue);
 
-    printf("\n Enter A Frequency => ");
+    printf("\n Enter The Frequency => ");
     scanf("%d",&iCount);
 
     Display(iValue,iCount);
