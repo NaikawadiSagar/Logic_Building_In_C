@@ -24,7 +24,7 @@ int main()
     int Num = 0;
     float Dis = 0.0;
 
-    printf("\n Enter A Amount => ");
+    printf("\n Enter The Amount => ");
     scanf("%d",&Num);
 
     Dis = CalculateBill(Num);
