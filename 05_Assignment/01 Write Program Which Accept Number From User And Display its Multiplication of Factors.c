@@ -20,7 +20,7 @@ int main()
 {
     int iValue = 0,iRet = 0;
 
-    printf("\n Enter A Number => ");
+    printf("\n Enter The Number => ");
     scanf("%d",&iValue);
 
     iRet = MulFact(iValue);
