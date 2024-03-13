@@ -22,7 +22,7 @@ int main()
 
     BOOL bRet = FALSE;
 
-    printf("\n Please Enter A Number => ");
+    printf("\n Please Enter The Number => ");
     scanf("%d",&iValue);
 
     bRet = ChkGreater(iValue);
