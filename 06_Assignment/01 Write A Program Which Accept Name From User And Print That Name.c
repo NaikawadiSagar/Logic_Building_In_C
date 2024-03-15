@@ -8,7 +8,7 @@ int main()
     printf("\n Please Enter Full Name => ");
     scanf("%[^\n]",&Name);
 
-    printf("\n Your Name is  %s",Name);
+    printf("\n Your Name is = %s",Name);
 
     getch();
     return 0;
