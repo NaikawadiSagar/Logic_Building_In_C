@@ -5,7 +5,7 @@ int main()
 {
     char Name[30];
 
-    printf("\n Please Enter Full Name => ");
+    printf("\n  Enter Full Name => ");
     scanf("%[^\n]",&Name);
 
     printf("\n Your Name is = %s",Name);
