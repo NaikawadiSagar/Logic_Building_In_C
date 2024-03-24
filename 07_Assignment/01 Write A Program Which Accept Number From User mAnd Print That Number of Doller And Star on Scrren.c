@@ -21,7 +21,7 @@ int main()
 {
     int iValue = 0;
 
-    printf("\n Enter A Number ");
+    printf("\n Enter The Number ");
     scanf("%d",&iValue);
 
     Pattern(iValue);
